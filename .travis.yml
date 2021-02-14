@@ -19,4 +19,4 @@ after_success:
   - docker push kanishkaw/multi-client
   - docker push kanishkaw/multi-nginx
   - docker push kanishkaw/multi-server
-  - docker push kanishkaw/multi-workder
+  - docker push kanishkaw/multi-worker
